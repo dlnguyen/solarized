@@ -40,6 +40,11 @@ And just follow the instructions.
 You can also run the `set_dark.sh` or `set_light.sh` script, to directly set
 the dark or light solarized theme to the actived gnome-terminal profile.
 
+# Install ls color : 
+    
+    $ mv dircolors.ansi-dark ~/.dircolors
+    $ eval dircolors ~/.dircolors
+
 Uninstall
 ---------
 
